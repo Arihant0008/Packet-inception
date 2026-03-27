@@ -1,0 +1,15 @@
+HOW_TO_EXPLAIN.md
+.venv
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+INTERVIEW_QUESTIONS.md
+output_blocked.pcap
+output.pcap
+PROJECT_WORKFLOW.md
+rules.txt
+test.pcap
